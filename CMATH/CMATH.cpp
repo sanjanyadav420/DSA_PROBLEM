@@ -1,11 +1,12 @@
 #include<iostream>
 #include<cmath>
+
 using namespace std;
 
 int main(){
 
    cout<<sqrt(24)<<"\n";
-   
+
    cout<<pow(4,5)<<endl;
 
 

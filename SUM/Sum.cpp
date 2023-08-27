@@ -15,7 +15,6 @@ int add(float n,float n1 ){
     return sum;
 
 }
-
 int main(){
     int a =5;
     int b=8;
@@ -23,7 +22,6 @@ int main(){
     float d=9.5;
 
     
-
    cout<<add(a,b)<<endl;
    cout<<add(a,b,5)<<endl;
    cout<<add(c,d)<<endl;
