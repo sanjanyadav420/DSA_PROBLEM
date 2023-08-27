@@ -14,9 +14,7 @@ void maxNum(int arr[7]){
 
         }
     }
-
       cout << "Maximum number in the array: " << maxNumber << endl;
-
     
 }
 
