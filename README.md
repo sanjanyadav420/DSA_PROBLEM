@@ -1,7 +1,5 @@
 # DSA_PROBLEM
-# Key concepts of C++ DSA include Arrays, Linked Lists, Stacks, Queues, Trees, and Graphs. Common Algorithms in C++ DSA include Sorting, Searching, Graph, and Dynamic Programming Algorithms. C++ DSA has various applications in real-world problems, such as Operating Systems, Gaming, Finance, and Healthcare.
-
- 
+# Data structure and Algorithm (DSA) is applied in all disciplines of software development. DSA is the building block of the software development process. It is not limited to a single programming language.
 
 # What are the 2 main types of data structures
 - Linear data structures
