@@ -9,6 +9,7 @@ int search(int arr[], int N, int x)
 		if (arr[i] == x)
 			return i;
 	return -1;
+
 }
 
 
@@ -20,7 +21,7 @@ int main()
 	
 	int result = search(arr, N, x);
 	(result == -1)
-		? cout << "Element is not present in array"
+		? cout << "Element is not present in array "
 		: cout << "Element is present at index " << result;
 	return 0;
 }
