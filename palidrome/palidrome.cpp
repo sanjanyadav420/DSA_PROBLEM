@@ -11,11 +11,13 @@ string isPalindrome(string S)
 	reverse(P.begin(), P.end());
 
 	if (S == P)
+    
 	{
 		
 		return "Yes";
 	}
 	
+
 	else
 	{
 		
