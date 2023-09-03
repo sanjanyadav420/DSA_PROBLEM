@@ -15,7 +15,9 @@ void prime(int n){
     }
 }
 int main(){
+
     int n;
+    
     cout<<"check number is prime or not"<<endl;
     cin>>n;
     prime(n);
