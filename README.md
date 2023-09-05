@@ -5,5 +5,6 @@
 # What are the 2 main types of data structures
 - Linear data structures
 - Non Linear data structures
-  
+
+  # Linear Data Structures
 
