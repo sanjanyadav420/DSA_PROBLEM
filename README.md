@@ -12,3 +12,4 @@ Data structure where data elements are arranged sequentially or linearly where e
  - stack
  - queue
  - linked list
+  # Non Linear Data Structures
