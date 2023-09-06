@@ -14,6 +14,6 @@ Data structure where data elements are arranged sequentially or linearly where e
  - Linked list
   # Non Linear Data Structures
 Data structures where data elements are not arranged sequentially or linearly are called non-linear data structures. In a non-linear data structure, single level is not involved. Therefore, we can’t traverse all the elements in single run only. Non-linear data structures are not easy to implement in comparison to linear data structure. It utilizes computer memory efficiently in comparison to a linear data structure.
-examples are - 
+examples are 
 - Trees
 - Graph
