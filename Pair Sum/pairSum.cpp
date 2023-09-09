@@ -14,8 +14,6 @@ void findPair(int arr[],int n,int target){
         cout<< "pair found ( " <<arr[low] <<" ,"<< arr[high] <<" )"<< endl;
         return ;
         }
-
-
         
         (arr[low] + arr[high] < target)? low++: high--;
     }
@@ -25,9 +23,7 @@ void findPair(int arr[],int n,int target){
 
 
 int main(){
-
 int arr[]={8,7,2,5,3,1};
-
 int target=10;
 
 int n= sizeof(arr)/sizeof(arr[0]);
