@@ -5,6 +5,7 @@ using namespace std;
 void findPair(int arr[],int n,int target){
     sort(arr ,arr+n);
     int low=0;
+    
     int high=n-1;
 
     while(low<high){
@@ -13,6 +14,7 @@ void findPair(int arr[],int n,int target){
         cout<< "pair found ( " <<arr[low] <<" ,"<< arr[high] <<" )"<< endl;
         return ;
         }
+
 
         
         (arr[low] + arr[high] < target)? low++: high--;
