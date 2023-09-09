@@ -5,7 +5,7 @@ using namespace std;
 void findPair(int arr[],int n,int target){
     sort(arr ,arr+n);
     int low=0;
-    
+
     int high=n-1;
 
     while(low<high){
@@ -27,9 +27,13 @@ void findPair(int arr[],int n,int target){
 int main(){
 
 int arr[]={8,7,2,5,3,1};
+
 int target=10;
+
 int n= sizeof(arr)/sizeof(arr[0]);
+
 findPair(arr , n ,target);
+
 return 0;
 
 
