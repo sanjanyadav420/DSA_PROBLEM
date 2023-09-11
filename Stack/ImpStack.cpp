@@ -1,5 +1,4 @@
-// CPP program to illustrate
-// Application of empty() function
+
 #include <iostream>
 #include <stack>
 using namespace std;
