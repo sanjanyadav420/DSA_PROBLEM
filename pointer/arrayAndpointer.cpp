@@ -5,5 +5,7 @@ int main(){
     int *ptr= &arr[0];
 
     cout<<"address is := " <<ptr<<" " <<"Value is :=" << *ptr<<endl;
-    
+    cout <<"address is := " <<arr<<" " <<"Value is :=" << *arr<<endl;
 }
+// address is := 0x61fefc Value is :=5
+// address is := 0x61fefc Value is :=5
