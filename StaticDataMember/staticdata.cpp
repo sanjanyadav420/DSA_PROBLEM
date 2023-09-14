@@ -3,7 +3,7 @@
 using namespace std;
 
 class A {
-	int x;
+	static int x;
 
 public:
 	A()
@@ -26,15 +26,13 @@ public:
 	{
 	return a;
 	}
-};
+};`
 
-// Definition of a
 A B::a;
 
-// Driver code
 int main()
 {
-B b1, b2, b3;
+B b1, b2;
 A a = b1.getA();
 
 return 0;
