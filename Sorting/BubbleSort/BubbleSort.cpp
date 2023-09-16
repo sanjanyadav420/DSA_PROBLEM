@@ -11,6 +11,7 @@ int bubbleSort(int arr[], int n) {
                arr[j+1]=swap;
             }
         }
+        
     }
     cout << "Sorted array: ";
     for (int i = 0; i < n; ++i) {
