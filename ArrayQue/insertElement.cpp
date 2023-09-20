@@ -14,6 +14,7 @@ int main(){
 //     cout<<arr[i]<<endl;
 //    }
   cout<<" Enter Element insert :=";
+  
   cin>>elem;
   cout<<"At what postion ? ";
   cin>>pos;
